@@ -155,7 +155,7 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: Symboleo: Towards a specification language for legal contracts
+      - title: "Symboleo: Towards a specification language for legal contracts"
         link: "#"
         authors: Sepehr Sharifi, Alireza Parvizimosaed, Daniel Amyot, Luigi Logrippo, John Mylopoulos
         conference: "28th IEEE International Requirements Engineering Conference, 2020"
