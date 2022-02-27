@@ -8,14 +8,15 @@ sidebar:
 
     # Profile information
     name: Sepehr Sharifi
-    tagline: PhD Researcher at University of Ottawa
+    tagline: PhD Researcher
+    location: Nanda Lab, uOttawa
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: s.sharifi@uottawa.ca
     phone: 
     citizenship:
-    website: SepShr.github.io #do not add http://
+    website: www.nanda-lab.ca/about-us/s_sharifi #do not add http://
     linkedin: sepehrsharifi
     xing: 
     github: SepShr
@@ -28,132 +29,133 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
 
-    languages:
-      - idiom: English
-        level: Native
+    # languages:
+    #   - idiom: English
+    #     level: Native
 
-      - idiom: French
-        level: Professional
+    #   - idiom: French
+    #     level: Professional
 
-      - idiom: Spanish
-        level: Professional
+    #   - idiom: Spanish
+    #     level: Professional
 
-    interests:
-      - item: Climbing
-        link:
+    # interests:
+    #   - item: Climbing
+    #     link:
 
-      - item: Snowboarding
-        link:
+    #   - item: Snowboarding
+    #     link:
 
-      - item: Cooking
-        link:
+    #   - item: Cooking
+    #     link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+# career-profile:
+#     title: About Me
+#     summary: |
+#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#       adipiscing elit. You can [download this free resume/CV template here]().
+#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#       Donec quam felis, ultricies nec, pellentesque eu.
+#       Second paragraph if required.
 education:
     - degree: PhD in Digital Transformation and Innovation
       university: University of Ottawa
       time: 2020 - present
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      # details: |
+      #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+      #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+      #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      #   pretium quis, sem.
+      #     - Bullet point
+      #     - Bullet point
     - degree: MSc in System Science Science
       university: University of Ottawa
       time: 2018 - 2020
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      # details: |
+      #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+      #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+      #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      #   pretium quis, sem.
+      #     - Bullet point
+      #     - Bullet point
     - degree: BSc in Aerospace Engineering
       university: Sharif University of Technology
       time: 2012 - 2017
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      # details: |
+      #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+      #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+      #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      #   pretium quis, sem.
+      #     - Bullet point
+      #     - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - role: PhD Researcher
+      time: Sept 2020 - Present
+      company: Nanda Lab, University of Ottawa, Ottawa
+      # details: |
+      #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #   Cum sociis natoque penatibus et magnis dis parturient montes,
+      #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #   pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      #   enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      #   error sit voluptatem accusantium doloremque laudantium, totam rem
+      #   aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      #   architecto beatae vitae dicta sunt explicabo.
+      #     - Bullet point
+      #     - Bullet point
+    - role: System Safety Intern
+      time: Jan 2020 - May 2020
+      company: Brane Inc, Ottawa
+      # details: |
+      #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #   Cum sociis natoque penatibus et magnis dis parturient montes,
+      #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #   pellentesque eu, pretium quis, sem.
+      #     - Bullet point
+      #     - Bullet point
+    - role: MSc Student
+      time: Jan 2018 - Aug 2020
+      company: CSM Lab, University of Ottawa, Ottawa
+      # details: |
+      #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #   Cum sociis natoque penatibus et magnis dis parturient montes,
+      #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #   pellentesque eu, pretium quis, sem.
+      #     - Bullet point
+      #     - Bullet point
 projects:
     title: Research
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # intro: >
+    #   You can list your side projects or open source libraries in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Engineering and Operating Safer ML-enabled Autonomous Systems
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        # link: "#hook"
+        tagline: "During this ongoing project, I am developing a heuristics approach to discover 
+                  hazardous scenarios of a machine learning component that result in a safety loss of an autonomous system."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      # - title: DevStudio
+      #   link: "#"
+      #   tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Symboleo; A Formal Specification of Legal Contracts
+      - title: "Symboleo: A Formal Specification of Legal Contracts"
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: 
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
     papers:
       - title: "Symboleo: Towards a specification language for legal contracts"
         link: "#"
@@ -175,27 +177,27 @@ publications:
         authors: Sepehr Sharifi, Patrick McLaughlin, Daniel Amyot, John Mylopoulos
         conference: "13th International i* Workshop, 2020"
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+#     toolset:
+#       - name: Python & Django
+#         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+#       - name: Javascript & jQuery
+#         level: 98%
 
-      - name: Angular
-        level: 98%
+#       - name: Angular
+#         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+#       - name: HTML5 & CSS
+#         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+#       - name: Ruby on Rails
+#         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+#       - name: Sketch & Photoshop
+#         level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
