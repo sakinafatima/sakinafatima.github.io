@@ -108,7 +108,7 @@ experiences:
       #   architecto beatae vitae dicta sunt explicabo.
       #     - Bullet point
       #     - Bullet point
-    - role: System Safety Intern
+    - role: System Safety Research Intern
       time: Jan 2020 - May 2020
       company: Brane Inc, Ottawa
       # details: |
@@ -147,8 +147,8 @@ projects:
       #   tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: "Symboleo: A Formal Specification of Legal Contracts"
-        link: "#"
-        tagline: 
+        link: "ruor.uottawa.ca/bitstream/10393/40866/3/Sharifi_Seyed_Sepehr_2020_thesis.pdf"
+        tagline: ""
 
 publications:
     title: Publications
@@ -158,22 +158,22 @@ publications:
     #   bibendum fringilla a eu lectus.
     papers:
       - title: "Symboleo: Towards a specification language for legal contracts"
-        link: "#"
+#         link: "#"
         authors: Sepehr Sharifi, Alireza Parvizimosaed, Daniel Amyot, Luigi Logrippo, John Mylopoulos
         conference: "28th IEEE International Requirements Engineering Conference, 2020"
 
       - title: "Subcontracting, assignment, and substitution for legal contracts in Symboleo"
-        link: "#"
+#         link: "#"
         authors: Alireza Parvizimosaed, Sepehr Sharifi, Daniel Amyot, Luigi Logrippo, John Mylopoulos
         conference: "39th International Conference on Conceptual Modeling, 2020"
 
       - title: Social Dependence Relationships in Requirements Engineering
-        link: "#"
+#         link: "#"
         authors: John Mylopoulos, Daniel Amyot, Luigi Logrippo, Alireza Parvizimosaed, Sepehr Sharifi
         conference: "13th International i* Workshop, 2020"
       
       - title: Goal Modeling for FinTech Certification
-        link: "#"
+#         link: "#"
         authors: Sepehr Sharifi, Patrick McLaughlin, Daniel Amyot, John Mylopoulos
         conference: "13th International i* Workshop, 2020"
 
