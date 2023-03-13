@@ -59,8 +59,8 @@ sidebar:
 #       Donec quam felis, ultricies nec, pellentesque eu.
 #       Second paragraph if required.
 education:
-    - degree: PhD in Digital Transformation and Innovation |
-              (Focus on ML System Safety Engineering)
+    - degree: PhD in Digital Transformation and Innovation
+#               (Focus on ML System Safety Engineering)
       university: University of Ottawa
       time: 2020 - present
       
