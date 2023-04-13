@@ -17,24 +17,24 @@ sidebar:
     phone: 
     citizenship:
     website: www.nanda-lab.ca/team/s_sharifi #do not add http://
-    linkedin: sepehrsharifi
+    linkedin: sakina-fatima-54379a112/
     xing: 
-    github: SepShr
+    github: sakinafatima
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@sepehrshr'
+    twitter: '@SakinaFatima94'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
 
-    # languages:
-    #   - idiom: English
-    #     level: Native
+    languages:
+      - idiom: English
+        level: Native
 
-    #   - idiom: French
-    #     level: Professional
+      - idiom: Urdu
+        level: Native
 
     #   - idiom: Spanish
     #     level: Professional
@@ -59,20 +59,20 @@ sidebar:
 #       Donec quam felis, ultricies nec, pellentesque eu.
 #       Second paragraph if required.
 education:
-    - degree: PhD in Digital Transformation and Innovation
-#               (Focus on ML System Safety Engineering)
+    - degree: PhD in Computer Science)
+#               (Focus on prediction and fixing of Flaky Tests using language models)
       university: University of Ottawa
-      time: 2020 - present
+      time: 2021 - present
       
-    - degree: MSc in System Science
-      university: University of Ottawa
+    - degree: Erasmus Mundus Joint Masters in Dependable Software Systems
+      university: University of St Andrews United Kingdom, Maynooth University Ireland
       time: 2018 - 2020
-      details: |
-                **Thesis:** [Symboleo: A Formal Specification of Legal Contracts]("https://ruor.uottawa.ca/bitstream/10393/40866/3/Sharifi_Seyed_Sepehr_2020_thesis.pdf")
+#       details: |
+#                 **Thesis:** [Symboleo: A Formal Specification of Legal Contracts]("https://ruor.uottawa.ca/bitstream/10393/40866/3/Sharifi_Seyed_Sepehr_2020_thesis.pdf")
       
-    - degree: BSc in Aerospace Engineering
-      university: Sharif University of Technology
-      time: 2012 - 2017
+    - degree: BSc in Computer Science
+      university: Comsats University, Islamabad Pakistan
+      time: 2013 - 2017
       # details: |
       #   Describe your study here lorem ipsum dolor sit amet, consectetuer
       #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -83,7 +83,7 @@ education:
       #     - Bullet point
 experiences:
     - role: PhD Researcher
-      time: Sept 2020 - Present
+      time: Jan 2021 - Present
       company: Nanda Lab, University of Ottawa, Ottawa
       # details: |
       #   Describe your role here lorem ipsum dolor sit amet, consectetuer
