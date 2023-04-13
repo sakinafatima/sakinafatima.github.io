@@ -142,42 +142,25 @@ experiences:
       #     - Bullet point
       #     - Bullet point
 publications:
-    title: News
+    title: Publications
     # intro: |
     #   You can list your publications in this section. Lorem ipsum dolor sit
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #   bibendum fringilla a eu lectus.
     papers:
-      - title: "Identifying the Hazard Boundary of ML-enabled Autonomous Systems Using Cooperative Co-Evolutionary Search"
-        authors: Sepehr Sharifi, Donghwan Shin, Lionel C. Briand, Nathan Aschbacher
-        link: "https://arxiv.org/abs/2301.13807"
-        conference: "ArXiv Preprints"
+      - title: "Flakify: A Black-Box, Language Model-Based Predictor for Flaky Tests"
+        authors: Sakina Fatima, Taher A. Ghaleb, Lionel C. Briand
+        link: "https://ieeexplore.ieee.org/document/9866550"
+        conference: Journal:"IEEE Transactions in Software Engineering, 2022"
         
-      - title: "Specification and analysis of legal contracts with Symboleo"
-        authors: Alireza Parvizimosaed, Sepehr Sharifi, Daniel Amyot, Luigi Logrippo, Marco Roveri, Aidin Rasti, Ali Roudak, John Mylopoulos
-        link: "https://doi.org/10.1007/s10270-022-01053-6"
-        conference: "Journal of Software and System Modeling, 21, 2395–2427, 2022"
+      - title: "Triton a mixed machine-learning strategy for classifying cetaceans in low-resolution video"
+        authors: L. McMillan, S. Fatima, C.S. Oedekoven, C. Faustino, C.E. Lennert-Cody, S.T. Buckland, D. Harris-Birtill
+        conference: Journal:"IEEE Transactions on Pattern Analysis and Machine Intelligence"
         
-      - title: "Symboleo: Towards a specification language for legal contracts"
+      - title: "Trial survey for eastern tropical Pacific dolphins: Project report, IATTC Special Report, No. 24"
 #         link: "#"
-        authors: Sepehr Sharifi, Alireza Parvizimosaed, Daniel Amyot, Luigi Logrippo, John Mylopoulos
-        conference: "28th IEEE International Requirements Engineering Conference, 2020"
-
-      - title: "Subcontracting, assignment, and substitution for legal contracts in Symboleo"
-#         link: "#"
-        authors: Alireza Parvizimosaed, Sepehr Sharifi, Daniel Amyot, Luigi Logrippo, John Mylopoulos
-        conference: "39th International Conference on Conceptual Modeling, 2020"
-
-      - title: Social Dependence Relationships in Requirements Engineering
-#         link: "#"
-        authors: John Mylopoulos, Daniel Amyot, Luigi Logrippo, Alireza Parvizimosaed, Sepehr Sharifi
-        conference: "13th International i* Workshop, 2020"
-      
-      - title: Goal Modeling for FinTech Certification
-#         link: "#"
-        authors: Sepehr Sharifi, Patrick McLaughlin, Daniel Amyot, John Mylopoulos
-        conference: "13th International i* Workshop, 2020"
-
+        authors: C.S. Oedekoven, L. McMillan, S. Fatima, D. Harris-Birtill, C. Faustino, L. Marshall, S.T. Buckland, and C.E.
+                 Lennert-Cody
 # skills:
 #     title: Skills &amp; Proficiency
 
