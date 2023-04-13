@@ -39,15 +39,15 @@ sidebar:
     #   - idiom: Spanish
     #     level: Professional
 
-    # interests:
-    #   - item: Climbing
-    #     link:
+    interests:
+      - item: Travelling
+        link:
 
-    #   - item: Snowboarding
-    #     link:
+      - item: Cooking
+        link:
 
-    #   - item: Cooking
-    #     link:
+      - item: Tennis
+        link:
 
 # career-profile:
 #     title: About Me
@@ -73,86 +73,37 @@ education:
     - degree: BSc in Computer Science
       university: Comsats University, Islamabad Pakistan
       time: 2013 - 2017
-      # details: |
-      #   Describe your study here lorem ipsum dolor sit amet, consectetuer
-      #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      #   sociis natoque penatibus et magnis dis parturient montes, nascetur
-      #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      #   pretium quis, sem.
-      #     - Bullet point
-      #     - Bullet point
+
 experiences:
     - role: PhD Researcher
       time: Jan 2021 - Present
       company: Nanda Lab, University of Ottawa, Ottawa
-      # details: |
-      #   Describe your role here lorem ipsum dolor sit amet, consectetuer
-      #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      #   Cum sociis natoque penatibus et magnis dis parturient montes,
-      #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      #   pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      #   enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      #   error sit voluptatem accusantium doloremque laudantium, totam rem
-      #   aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      #   architecto beatae vitae dicta sunt explicabo.
-      #     - Bullet point
-      #     - Bullet point
-    - role: System Safety Research Intern
-      time: Jan 2020 - May 2020
-      company: Brane Inc, Ottawa
-      # details: |
-      #   Describe your role here lorem ipsum dolor sit amet, consectetuer
-      #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      #   Cum sociis natoque penatibus et magnis dis parturient montes,
-      #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      #   pellentesque eu, pretium quis, sem.
-      #     - Bullet point
-      #     - Bullet point
-    - role: MSc Student
-      time: Jan 2018 - Aug 2020
-      company: CSM Lab, University of Ottawa, Ottawa
-      # details: |
-      #   Describe your role here lorem ipsum dolor sit amet, consectetuer
-      #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      #   Cum sociis natoque penatibus et magnis dis parturient montes,
-      #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      #   pellentesque eu, pretium quis, sem.
-      #     - Bullet point
-      #     - Bullet point
-projects:
-    title: Research
-    intro: >
-      My research focuses on making robots and cyberphysical systems safer.
-      Soecifically, I am interested in Machine Learning (ML) components and how
-      they impact the safety of the system. To that end, I have developed an
-      effective and efficient tool to identify the hazard boundary of ML components
-      via scalable parallel simulations. Furthermore, I am developing methods and
-      tools to monitor the ML component during its operation at runtime.
-      My research is supported by Auxon Corporation, Mitacs and Ontario Graduate Scholarship.
-      
-    assignments:
-        - title: Runtime Safety Monitoring of Learned Components
-          tagline: "This ongoing research focuses on developing safety monitors for learned
-                    components."
-        
-        - title: Hazard Boundary Identification of ML-enabled Autonomous Systems
-          tagline: "In this project we proposed MLCSHE, a cooperative coevolution algorithm
-                    with a probabilistic fitness function to identify the hazard boundary
-                    of a machine learning component which is embedded in an atuonomous system.
-                    MLCSHE uses the actual system and scalable parallel simulations to identify
-                    the hazard boundary."
-        
-#       - title: Engineering and Operating Safer ML-enabled Autonomous Systems
-#         # link: "#hook"
-#         tagline: "During this ongoing project, I am developing a heuristics approach to discover 
-#                   hazardous scenarios of a machine learning component that result in a safety loss of an autonomous system.
-#                   This project is part of a muliyear collaboration between Nanda Lab and Auxon Technolgies and is partially
-#                   supported by Mitacs Accelerate Program, Ontario Graduate Scholarship and Canada Resarch Chair."
-
-#       - title: "Symboleo: A Formal Specification of Legal Contracts"
-#         link: "https://ruor.uottawa.ca/bitstream/10393/40866/3/Sharifi_Seyed_Sepehr_2020_thesis.pdf"
-#         tagline: "During this project, I developed a tool-supported formal language model of smart contracts (contracts 
-#                   with automated monitoring). The projects was supported by NSERC Strategic Grant and OGS."
+               - Analysing Flaky Tests in Regression Testing and Continuous Integration
+               - Developing Black-Box solutions to detect and fix Flaky Tests using Pre-trained Language Models
+               - Generating a larger, open-source dataset of Flaky Tests for training machine learning models
+    - role: Teaching Assistant
+      time: Jan 2021 - April 2021
+      company: University of Ottawa, Ottawa
+               - Course: Introduction to Programming
+               - Developed and presented tutorials and educational videos; held office hours; evaluated reports
+               - Developed JUnit Test Cases for automatic grading of submitted assignments
+    - role: Research Assistant
+      time: Jan 2020 - June 2020
+      company: SACHI Research Group, University of St Andrews, United Kingdom
+               - Analysed video images from drones to locate dolphin schools using different techniques of image
+                 analysis and machine learning (A project of Inter-American Tropical Tuna Commission (IATTC))
+      - role: Software Engineer Intern
+      time: July 2019 - Aug 2019
+      company: Maynooth University, Ireland
+               - Worked on developing ’Collaborative Annotation and Pedagogy Tool’ tool for university using Node.Js,
+                 Express, Ajax and MongoDb
+      - role: Software Consultant
+      time: Aug 2017 - Sept 2018
+      company: International Business Machines Corporation (IBM) – Pakistan
+                -  Performed Quality Assurance of ETL processes with IBM RTC and RQM Tool
+                -  Worked with SQL queries and Business Intelligence team for Quality Assurance of IBM Cognos Reports
+                -  Arranged around 30 IBM Cloud workshops and Hackathons in universities and Incubation centres,
+                   all over Pakistan to promote IBM Cloud and technologies
 
 publications:
     title: Publications
