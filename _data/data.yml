@@ -91,12 +91,12 @@ experiences:
       company: SACHI Research Group, University of St Andrews, United Kingdom
                - Analysed video images from drones to locate dolphin schools using different techniques of image
                  analysis and machine learning (A project of Inter-American Tropical Tuna Commission (IATTC))
-      - role: Software Engineer Intern
+     - role: Software Engineer Intern
       time: July 2019 - Aug 2019
       company: Maynooth University, Ireland
                - Worked on developing ’Collaborative Annotation and Pedagogy Tool’ tool for university using Node.Js,
                  Express, Ajax and MongoDb
-      - role: Software Consultant
+     - role: Software Consultant
       time: Aug 2017 - Sept 2018
       company: International Business Machines Corporation (IBM) – Pakistan
                 -  Performed Quality Assurance of ETL processes with IBM RTC and RQM Tool
