@@ -73,11 +73,12 @@ education:
     - degree: BSc in Computer Science
       university: Comsats University, Islamabad Pakistan
       time: 2013 - 2017
+      
 
 experiences:
-    - role: Teaching Assistant for Introduction to Programming
-      time: Jan 2021 - April 2021
-      company: University of Ottawa, Ottawa
+     - role: Teaching Assistant for Introduction to Programming
+       time: Jan 2021 - April 2021
+       company: University of Ottawa, Ottawa
                - Developed and presented tutorials and educational videos; held office hours, evaluated reports
                - Developed JUnit Test Cases for automatic grading of submitted assignments
     - role: Research Assistant
