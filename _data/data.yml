@@ -75,12 +75,6 @@ education:
       time: 2013 - 2017
 
 experiences:
-    - role: PhD Researcher
-      time: Jan 2021 - Present
-      company: Nanda Lab, University of Ottawa, Ottawa
-               - Analysing Flaky Tests in Regression Testing and Continuous Integration
-               - Developing Black-Box solutions to detect and fix Flaky Tests using Pre-trained Language Models
-               - Generating a larger, open-source dataset of Flaky Tests for training machine learning models
     - role: Teaching Assistant for Introduction to Programming
       time: Jan 2021 - April 2021
       company: University of Ottawa, Ottawa
