@@ -59,8 +59,8 @@ sidebar:
 #       Donec quam felis, ultricies nec, pellentesque eu.
 #       Second paragraph if required.
 education:
-    - degree: PhD in Computer Science)
-#               (Focus on prediction and fixing of Flaky Tests using language models)
+    - degree: PhD in Computer Science
+              (Focus on prediction and fixing of Flaky Tests in Regression Testing using language models)
       university: University of Ottawa
       time: 2021 - present
       
@@ -130,41 +130,17 @@ experiences:
       #   pellentesque eu, pretium quis, sem.
       #     - Bullet point
       #     - Bullet point
-projects:
-    title: Research
-    intro: >
-      My research focuses on making robots and cyberphysical systems safer.
-      Soecifically, I am interested in Machine Learning (ML) components and how
-      they impact the safety of the system. To that end, I have developed an
-      effective and efficient tool to identify the hazard boundary of ML components
-      via scalable parallel simulations. Furthermore, I am developing methods and
-      tools to monitor the ML component during its operation at runtime.
-      My research is supported by Auxon Corporation, Mitacs and Ontario Graduate Scholarship.
-      
-    assignments:
-        - title: Runtime Safety Monitoring of Learned Components
-          tagline: "This ongoing research focuses on developing safety monitors for learned
-                    components."
-        
-        - title: Hazard Boundary Identification of ML-enabled Autonomous Systems
-          tagline: "In this project we proposed MLCSHE, a cooperative coevolution algorithm
-                    with a probabilistic fitness function to identify the hazard boundary
-                    of a machine learning component which is embedded in an atuonomous system.
-                    MLCSHE uses the actual system and scalable parallel simulations to identify
-                    the hazard boundary."
-        
-#       - title: Engineering and Operating Safer ML-enabled Autonomous Systems
-#         # link: "#hook"
-#         tagline: "During this ongoing project, I am developing a heuristics approach to discover 
-#                   hazardous scenarios of a machine learning component that result in a safety loss of an autonomous system.
-#                   This project is part of a muliyear collaboration between Nanda Lab and Auxon Technolgies and is partially
-#                   supported by Mitacs Accelerate Program, Ontario Graduate Scholarship and Canada Resarch Chair."
-
-#       - title: "Symboleo: A Formal Specification of Legal Contracts"
-#         link: "https://ruor.uottawa.ca/bitstream/10393/40866/3/Sharifi_Seyed_Sepehr_2020_thesis.pdf"
-#         tagline: "During this project, I developed a tool-supported formal language model of smart contracts (contracts 
-#                   with automated monitoring). The projects was supported by NSERC Strategic Grant and OGS."
-
+    - role: Software Consultant and IBM Cloud Advocate
+      time: Aug 2017 - Sept 2018
+      company: International Business Machine Coorporation (IBM), Islamabad Pakistan
+      # details: |
+      #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #   Cum sociis natoque penatibus et magnis dis parturient montes,
+      #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #   pellentesque eu, pretium quis, sem.
+      #     - Bullet point
+      #     - Bullet point
 publications:
     title: Publications
     # intro: |
