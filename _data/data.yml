@@ -16,7 +16,7 @@ sidebar:
     email: sfati077@uottawa.ca
     phone: 
     citizenship:
-    website: www.nanda-lab.ca/team/s_sharifi #do not add http://
+    website:  www.nanda-lab.ca/team/s_fatima #do not add http://
     linkedin: sakina-fatima-54379a112/
     xing: 
     github: sakinafatima
@@ -39,15 +39,15 @@ sidebar:
     #   - idiom: Spanish
     #     level: Professional
 
-    # interests:
-    #   - item: Climbing
-    #     link:
+    interests:
+      - item: Travelling
+        link:
 
-    #   - item: Snowboarding
-    #     link:
+      - item: Cookimg
+        link:
 
-    #   - item: Cooking
-    #     link:
+      - item: Tennis
+        link:
 
 # career-profile:
 #     title: About Me
@@ -97,9 +97,9 @@ experiences:
       #   architecto beatae vitae dicta sunt explicabo.
       #     - Bullet point
       #     - Bullet point
-    - role: System Safety Research Intern
-      time: Jan 2020 - May 2020
-      company: Brane Inc, Ottawa
+    - role: Teaching Assistant, Introduction to Programming
+      time: Jan 2021 - April 2021
+      company: University of Ottawa, Ottawa
       # details: |
       #   Describe your role here lorem ipsum dolor sit amet, consectetuer
       #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -108,9 +108,20 @@ experiences:
       #   pellentesque eu, pretium quis, sem.
       #     - Bullet point
       #     - Bullet point
-    - role: MSc Student
-      time: Jan 2018 - Aug 2020
-      company: CSM Lab, University of Ottawa, Ottawa
+    - role: Research Assistant
+      time: Jan 2020 - June 2020
+      company: SACHI Research Lab, University of St Andrews, United Kingdom
+      # details: |
+      #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #   Cum sociis natoque penatibus et magnis dis parturient montes,
+      #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #   pellentesque eu, pretium quis, sem.
+      #     - Bullet point
+      #     - Bullet point
+    - role: Software Engineer Intern
+      time: July 2019 - August 2019
+      company: Maynooth University, Ireland
       # details: |
       #   Describe your role here lorem ipsum dolor sit amet, consectetuer
       #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
