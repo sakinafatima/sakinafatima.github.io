@@ -159,3 +159,11 @@ publications:
         link: "http://surl.li/giyao"
         authors: C.S. Oedekoven, L. McMillan, S. Fatima, D. Harris-Birtill, C. Faustino, L. Marshall, S.T. Buckland, and C.E.
                  Lennert-Cody
+publications:
+    title: News
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
+    papers:
+      - title: June 2018: Recieved Erasmus Mundus Joint Masters Scholorship For 2 years Masters, Funded by European Commission
