@@ -49,10 +49,10 @@ sidebar:
       - item: Tennis
         link:
 
-# career-profile:
-#     title: About Me
-#     summary: |
-#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
+career-profile:
+    title: About Me
+    summary: |
+      I am a PhD Candidate at University of Ottawa, Canada.
 #       adipiscing elit. You can [download this free resume/CV template here]().
 #       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
 #       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
