@@ -154,10 +154,10 @@ publications:
         
       - title: "Triton a mixed machine-learning strategy for classifying cetaceans in low-resolution video"
         authors: L. McMillan, S. Fatima, C.S. Oedekoven, C. Faustino, C.E. Lennert-Cody, S.T. Buckland, D. Harris-Birtill
-        conference: Journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+        conference: Journal:"IEEE Transactions on Pattern Analysis and Machine Intelligence"
         
       - title: "Trial survey for eastern tropical Pacific dolphins: Project report, IATTC Special Report, No. 24"
-        link: https://www.iattc.org/getattachment/a52969b9-08a7-4b5e-83cb-12aa25bdc217/No-24-2021-Mulitiple_Trial-survey-for-Eastern-Tropical-Pacific-dolphins-Project-report.pdf
+        link: "http://surl.li/giyao"
         authors: C.S. Oedekoven, L. McMillan, S. Fatima, D. Harris-Birtill, C. Faustino, L. Marshall, S.T. Buckland, and C.E.
                  Lennert-Cody
 # skills:
