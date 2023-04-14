@@ -159,13 +159,13 @@ publications:
         link: "http://surl.li/giyao"
         authors: C.S. Oedekoven, L. McMillan, S. Fatima, D. Harris-Birtill, C. Faustino, L. Marshall, S.T. Buckland, and C.E.
                  Lennert-Cody
-publications:
+projects:
     title: News
     # intro: |
     #   You can list your publications in this section. Lorem ipsum dolor sit
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #   bibendum fringilla a eu lectus.
-    papers:
+    assignments:
       - title: "Jan 2020: Started working as a Research Assistant at SACHI Research Lab, University of St Andrews, United Kingdom"
       - title: "Nov 2019: Recieved a cash prize of 1000 Euros from National University of Ireland and a Medal from French Government for distinction in collaborative degrees"
       - title: "Sept 2019: Started second year of Erasmus Mundus Joint Masters in Dependable Software Systems at University of St Andrews, United Kingdom"
