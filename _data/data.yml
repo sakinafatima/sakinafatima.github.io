@@ -43,7 +43,7 @@ sidebar:
       - item: Travelling
         link:
 
-      - item: Cookimg
+      - item: Cooking
         link:
 
       - item: Tennis
@@ -52,7 +52,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am a PhD Candidate at University of Ottawa, Canada. I am currently working on the problem of Flaky tests in Regression Testing and Continuous Integration. I aim to develop black-box and generalized solutions to detect and fix these Flaky tests using language models which can be then incorporated in industrial practices. My areas of interest includes: Code Generation, Automated Software Testing, Applied Machine Learning and Natural Language Processing. 
+      I am a PhD Candidate at the University of Ottawa, Canada. I am currently working on the problem of Flaky Tests in Regression Testing and Continuous Integration. I aim to develop black-box and generalized solutions to detect and fix these Flaky Tests using language models which can be then incorporated in industrial practices. My areas of interest includes: Code Generation, Automated Software Testing, Applied Machine Learning and Natural Language Processing. 
 #       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
 #       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 #       Donec quam felis, ultricies nec, pellentesque eu.
@@ -159,27 +159,26 @@ publications:
         link: "http://surl.li/giyao"
         authors: C.S. Oedekoven, L. McMillan, S. Fatima, D. Harris-Birtill, C. Faustino, L. Marshall, S.T. Buckland, and C.E.
                  Lennert-Cody
-# skills:
-#     title: Skills &amp; Proficiency
-
-#     toolset:
-#       - name: Python & Django
-#         level: 98%
-
-#       - name: Javascript & jQuery
-#         level: 98%
-
-#       - name: Angular
-#         level: 98%
-
-#       - name: HTML5 & CSS
-#         level: 95%
-
-#       - name: Ruby on Rails
-#         level: 85%
-
-#       - name: Sketch & Photoshop
-#         level: 60%
+ publications:
+    title: Publications
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
+    papers:
+      - title: "Flakify: A Black-Box, Language Model-Based Predictor for Flaky Tests"
+        authors: Sakina Fatima, Taher A. Ghaleb, Lionel C. Briand
+        link: "https://ieeexplore.ieee.org/document/9866550"
+        conference: Journal:"IEEE Transactions on Software Engineering", 2022
+        
+      - title: "Triton a mixed machine-learning strategy for classifying cetaceans in low-resolution video"
+        authors: L. McMillan, S. Fatima, C.S. Oedekoven, C. Faustino, C.E. Lennert-Cody, S.T. Buckland, D. Harris-Birtill
+        conference: Journal:"IEEE Transactions on Pattern Analysis and Machine Intelligence"
+        
+      - title: "Trial survey for eastern tropical Pacific dolphins: Project report, IATTC Special Report, No. 24"
+        link: "http://surl.li/giyao"
+        authors: C.S. Oedekoven, L. McMillan, S. Fatima, D. Harris-Birtill, C. Faustino, L. Marshall, S.T. Buckland, and C.E.
+                 Lennert-Cody
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+   Contact me by email at Sfati077@uottawa.ca
