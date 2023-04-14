@@ -159,26 +159,3 @@ publications:
         link: "http://surl.li/giyao"
         authors: C.S. Oedekoven, L. McMillan, S. Fatima, D. Harris-Birtill, C. Faustino, L. Marshall, S.T. Buckland, and C.E.
                  Lennert-Cody
- publications:
-    title: Publications
-    # intro: |
-    #   You can list your publications in this section. Lorem ipsum dolor sit
-    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    #   bibendum fringilla a eu lectus.
-    papers:
-      - title: "Flakify: A Black-Box, Language Model-Based Predictor for Flaky Tests"
-        authors: Sakina Fatima, Taher A. Ghaleb, Lionel C. Briand
-        link: "https://ieeexplore.ieee.org/document/9866550"
-        conference: Journal:"IEEE Transactions on Software Engineering", 2022
-        
-      - title: "Triton a mixed machine-learning strategy for classifying cetaceans in low-resolution video"
-        authors: L. McMillan, S. Fatima, C.S. Oedekoven, C. Faustino, C.E. Lennert-Cody, S.T. Buckland, D. Harris-Birtill
-        conference: Journal:"IEEE Transactions on Pattern Analysis and Machine Intelligence"
-        
-      - title: "Trial survey for eastern tropical Pacific dolphins: Project report, IATTC Special Report, No. 24"
-        link: "http://surl.li/giyao"
-        authors: C.S. Oedekoven, L. McMillan, S. Fatima, D. Harris-Birtill, C. Faustino, L. Marshall, S.T. Buckland, and C.E.
-                 Lennert-Cody
-
-footer: >
-   Contact me by email at Sfati077@uottawa.ca
