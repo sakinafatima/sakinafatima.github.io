@@ -80,6 +80,21 @@ education:
       #     - Bullet point
       #     - Bullet point
 experiences:
+    - role: Research Intern
+      time: July 2023 - Present
+      company: Microsoft (RiSE Group), Redmond
+      # details: |
+      #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #   Cum sociis natoque penatibus et magnis dis parturient montes,
+      #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #   pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      #   enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      #   error sit voluptatem accusantium doloremque laudantium, totam rem
+      #   aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      #   architecto beatae vitae dicta sunt explicabo.
+      #     - Bullet point
+      #     - Bullet point
     - role: PhD Researcher
       time: Jan 2021 - Present
       company: Nanda Lab, University of Ottawa, Ottawa
@@ -166,8 +181,8 @@ projects:
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #   bibendum fringilla a eu lectus.
     assignments:
-      - title: "June 2023: I will be joining Microsoft (RiSE) research group as an applied science intern at the Microsoft Headquarters, Redmond USA"
-      - title: "May 2023: I will be presenting my work at ICSE 2023, happening at Melbourne, Australia from 14th to 20th May 2023"
+      - title: "July 2023: I joined Microsoft (RiSE) research group as an applied science intern at the Microsoft Headquarters, Redmond USA"
+      - title: "May 2023: I presented my work at ICSE 2023, Melbourne, Australia from 14th to 20th May 2023"
       - title: "Feb 2023: My paper 'Flakify: A Black-Box, Language Model-Based Predictor for Flaky Tests' got accepted at ICSE 2023 as Journal-First"
       - title: "August 2022: My paper 'Flakify: A Black-Box, Language Model-Based Predictor for Flaky Tests' got accepted at TSE 2022"
       - title: "May 2022: I attended EMA General Assembly at Copenhagen, Denmark"
